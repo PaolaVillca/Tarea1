@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Cuenta
+comment1.params=propietario\ carnet\ domicilio\ numTelef
+comment1.target=Cuenta(java.lang.String,\ int,\ java.lang.String,\ int)
+comment10.params=numTelef
+comment10.target=void\ setCambiarNumTelef(int)
+comment11.params=
+comment11.target=int\ getNumTelef()
+comment2.params=monto2
+comment2.target=double\ depositarMonto(double)
+comment3.params=monto3
+comment3.target=double\ retirarMonto(double)
+comment4.params=propietario
+comment4.target=void\ setCambiarPropietario(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getPropietario()
+comment6.params=carnet
+comment6.target=void\ setCambiarCarnet(int)
+comment7.params=
+comment7.target=int\ getCarnet()
+comment8.params=domicilio
+comment8.target=void\ setCambiarDomicilio(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getDomicilio()
+numComments=12
